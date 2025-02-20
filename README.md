@@ -1,9 +1,9 @@
 Портфолио с фильтрами
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/nuxfk9snqcdg5170?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-events-state-filter)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-events-state-filter/)
 
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
